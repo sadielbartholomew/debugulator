@@ -1,0 +1,5 @@
+#!/bin/bash
+python debugulator.py "$@"
+shift
+
+# use $ alias debugulate='bash debugulate_wrapper'

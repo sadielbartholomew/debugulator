@@ -47,3 +47,13 @@ to 3, so it may as well be supported).
 **Progress**:
 
 - 04/05/19: Repository created, ``README.md`` file written to outline vision.
+- 14/09/19: Sprint to get bare-bones functionality script w/ docs & tests.
+
+
+### Dev notes
+
+- To build the docs: run ``make html`` under ``<root>/docs/`` directory (note
+  this requires the 'Sphinx' library);
+- To run the test battery script: run ``bash tests/tests.sh`` in the
+  ``<root>/`` directory (this is currently just a shell script so has no
+  particular dependencies).
