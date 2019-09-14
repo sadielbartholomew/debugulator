@@ -47,3 +47,4 @@ to 3, so it may as well be supported).
 **Progress**:
 
 - 04/05/19: Repository created, ``README.md`` file written to outline vision.
+- 14/09/19: Sprint to get bare-bones functionality script w/ docs & tests.

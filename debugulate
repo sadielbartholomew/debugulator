@@ -1,0 +1,4 @@
+#!/bin/bash
+python debugulator.py "$@"
+
+# then use $ alias debugulate='bash debugulate'
